@@ -4,7 +4,7 @@
 
 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-<img src="" alt="">
+<img src="ss.png" alt="">
 
 ---
 
